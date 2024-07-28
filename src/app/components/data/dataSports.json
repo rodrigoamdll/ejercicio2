@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Bandas Elásticas",
+        "price": 35,
+        "categoria": "Yoga y Pilates",
+        "urlImage": "https://ae01.alicdn.com/kf/H9c0501558799423f85ee02c93c04e6d1k.jpg_640x640Q90.jpg_.webp",
+        "quantity": 1,
+        "descripcion": "Bandas elásticas ideales para yoga y pilates."
+    },
+    {
+        "id": 2,
+        "title": "Colchoneta de Yoga",
+        "price": 35,
+        "categoria": "Yoga y Pilates",
+        "urlImage": "https://img.freepik.com/fotos-premium/mujer-delgada-forma-joven-sosteniendo-estera-yoga-bandas-elasticas-resistencia-sus-manos_407348-2837.jpg",
+        "quantity": 1,
+        "descripcion": "Colchoneta cómoda y antideslizante para yoga."
+    },
+    {
+        "id": 3,
+        "title": "Camiseta de Futbol",
+        "price": 30,
+        "categoria": "Futbol",
+        "urlImage": "https://nostalgiacf.com/cdn/shop/products/ESA85RETRO_580x.jpg?v=1662592830",
+        "quantity": 1,
+        "descripcion": "Camiseta ligera y transpirable para jugar futbol."
+    },
+    {
+        "id": 4,
+        "title": "Balón de Futbol",
+        "price": 30,
+        "categoria": "Futbol",
+        "urlImage": "https://i.pinimg.com/originals/51/e2/4a/51e24a865673c66a12e30d0cb755ace4.jpg",
+        "quantity": 1,
+        "descripcion": "Balón oficial de futbol, tamaño estándar."
+    }
+]
